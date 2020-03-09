@@ -1,6 +1,17 @@
 html {
     font-family: sans-serif;
 }
-h1 {
-    text-decoration: underline;
+html, header, body, main {
+    margin: 0em;
+    padding: 0em;
+}
+footer {
+    background-color: green;
+}
+main {
+    padding: 2em;
+}
+header {
+    background-color: green;
+    margin-top: -1.4em;
 }
